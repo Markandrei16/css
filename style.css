@@ -1,0 +1,34 @@
+body{
+    background: url(download.jpg);
+    text-align: comment;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.Email{
+font-size: 25px;
+
+
+}
+
+.Password{
+font-size: 25px;
+
+
+}
+
+
+.Retype-password{
+font-size: 25px;
+
+
+}
+
+.welcome{
+font-size: 25px;
+
+
+}
